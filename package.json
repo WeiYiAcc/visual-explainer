@@ -6,5 +6,10 @@
     "claude-code-plugin",
     "agent-skill"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "pi": {
+    "skills": [
+      "./plugins"
+    ]
+  }
 }
